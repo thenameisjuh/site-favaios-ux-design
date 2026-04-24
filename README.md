@@ -21,9 +21,6 @@ A plataforma foi desenhada para servir três perfis distintos, garantindo que a 
 * **Histórias de Favaios:** Biografias que humanizam as estatísticas.
 * **Módulo "Contribuir":** Formulário para submissão de memórias, fotos e relatos familiares.
 
-## 📺 Demonstração
-No diretório `media/` pode encontrar uma gravação do protótipo interativo, demonstrando o fluxo de navegação e as transições de interface.
-
 ---
 **Joana Freitas | Digital Humanities MA Student**
 
