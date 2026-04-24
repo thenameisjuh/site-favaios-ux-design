@@ -4,6 +4,9 @@
 
 Este projeto consiste na conceção e design de uma plataforma digital dedicada à preservação e divulgação dos registos históricos da vila de Favaios. O foco principal é transformar o arquivo de óbitos (1926-1940) num ecossistema acessível que promova o orgulho comunitário e a investigação académica.
 
+<img width="1440" height="779" alt="Homepage" src="https://github.com/user-attachments/assets/8dfd3611-552a-488c-8f66-76e7202df0ed" />
+
+
 ## 🏛️ Conceito e Identidade Visual
 Inspirado na herança do Douro e na tradição do Moscatel, o design afasta-se de bases de dados convencionais para oferecer uma experiência imersiva:
 * **Paleta de Cores:** Bordô (vinho), creme (papel envelhecido) e cinza escuro (xisto).
